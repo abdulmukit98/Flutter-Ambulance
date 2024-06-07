@@ -8,7 +8,7 @@ void main() async
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-        apiKey: "AIzaSyAuPOovpTBInhkcv-imimts0hVGfsNqab8",
+        apiKey: "API KEY",
         authDomain: "flutter-uber-clone-with-95c05.firebaseapp.com",
         databaseURL: "https://flutter-uber-clone-with-95c05-default-rtdb.firebaseio.com",
         projectId: "flutter-uber-clone-with-95c05",
