@@ -20,5 +20,8 @@ all users, including dispatchers and emergency responders.
 
 ### Working Flowchart
                   Drivers Application                                            Users Application
-<img src="https://github.com/abdulmukit98/Flutter-Ambulance/assets/56398175/d33a889c-d16c-4d23-8deb-064f6f89f406" width="400" height="600" /> <img src="https://github.com/abdulmukit98/Flutter-Ambulance/assets/56398175/86e1921c-ee25-4203-8575-93c60ae8dde3" width="400" height="600" />
+<p float="left">
+<img src="https://github.com/abdulmukit98/Flutter-Ambulance/assets/56398175/d33a889c-d16c-4d23-8deb-064f6f89f406" width="400" height="600" />   
+<img src="https://github.com/abdulmukit98/Flutter-Ambulance/assets/56398175/86e1921c-ee25-4203-8575-93c60ae8dde3" width="400" height="600" />
+</p>
 
