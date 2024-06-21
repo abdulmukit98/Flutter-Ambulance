@@ -1,7 +1,7 @@
 # Get Ambulance
 Google Flutter based Ambulance ride sharing application. <br>
-Repository: <a href="https://github.com/abdulmukit98/Flutter-Ambulance">GitHub Repository</a> <br>
-Web View: <a href="https://abdulmukit98.github.io/Flutter-Ambulance/">Website Presentation</a>  <br>
+Repository: <a href="https://github.com/abdulmukit98/Flutter-Ambulance"> GitHub Repository </a> <br>
+Web View: <a href="https://abdulmukit98.github.io/Flutter-Ambulance/"> Website Presentation </a>  <br>
 
 ### Objective
 The primary objectives of the Android Ambulance Tracking App are:
